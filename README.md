@@ -1,1 +1,1 @@
-# Easy-Travel
+# traveling-website
